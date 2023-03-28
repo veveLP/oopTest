@@ -1,0 +1,10 @@
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe.config
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.exe
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\bin\Debug\WindowsFormsApp43.pdb
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.AssemblyReference.cache
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.SuggestedBindingRedirects.cache
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.Properties.Resources.resources
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.GenerateResource.cache
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.csproj.CoreCompileInputs.cache
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.exe
+C:\Users\vevePC\RiderProjects\WindowsFormsApp43\WindowsFormsApp43\obj\Debug\WindowsFormsApp43.pdb
